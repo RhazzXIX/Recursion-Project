@@ -1,2 +1,2 @@
 # Recursion-Project
-Project to solve a problem using recursions
+Project to show how to solve a problem using recursions
